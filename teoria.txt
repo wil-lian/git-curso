@@ -22,6 +22,7 @@ de color rojo porque estan al aire aun no lo hemos agregado a mi entorno de trab
 
 3    - git add app.js         este comando nos permite agregar archivos al entorno de trabajo y apareceran 
 verdes y ya no rojos.
+o tambien para agregar todos los canbios   ---->     git add .
 
 
 4    - git config --global user.email "guillermototi11@gmail.com"            para configurar el email de este usuario que se va a asociar con
@@ -40,6 +41,16 @@ files changed -- archivos se han canbiado  y insertions --> ha sido insertados
 se crearon --create mode 2323 el numero significa id del archivo
 
 
+
 7   - git log     para ver todos los commits que hemos creado
 cada commit tiene su hash su ifedntificador
 tambien tiene el author y el dato (date) el nombre del commit 
+
+
+
+8   - git checkout -- index.html         para revertir los canbios de los archivos
+revierte el canbio que se ha hecho en el archivo  
+
+
+9   - git diff index.html       para ver las diferencias hechas en los archivos
+nos mostrara una pantalla con restas y sumas que sean hecho
