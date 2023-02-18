@@ -1,0 +1,35 @@
+1 git es un sistema de control de verciones
+2 controla o administra las distintas verciones de un programa
+3 es un sistema de control de repositorio 
+4 copia local 
+
+- pwd      nos muestra el directorio actual
+
+- ls       nos muestra todo lo que hay en el directorio
+
+- cd       es para entrar a los directorios
+
+1    - git init         voy a enpezar a utilizar git para controlar sus verciones, este comando crea una carpeta 
+llamada .git que se encarga de administrar todos los canbios del codigo
+
+
+CON git init enpezamos a trabajar en el working directory
+
+
+2    - git status             nos permite ver que archivos tenemos o que archivos estamos trabajando los archivos salen
+de color rojo porque estan al aire aun no lo hemos agregado a mi entorno de trabajo si
+
+
+3    - git add app.js         este comando nos permite agregar archivos al entorno de trabajo y apareceran 
+verdes y ya no rojos.
+
+
+4    - git config --global user.email "guillermototi11@gmail.com"            para configurar el email de este usuario que se va a asociar con
+el que a hecho los canbios
+
+
+
+5    - git config --global user.name "william"             para configurar el nombre del usuario
+
+
+6   - git commit             punto de partida el inicio de nuestro codigo 
