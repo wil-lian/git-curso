@@ -33,3 +33,13 @@ el que a hecho los canbios
 
 
 6   - git commit             punto de partida el inicio de nuestro codigo 
+aparecera una pantalla donde para tipear tenemos que teclear la letra    -->   i
+luego tecleamos  -->  scape  y en insertar  ponemos -->  :wq
+
+files changed -- archivos se han canbiado  y insertions --> ha sido insertados
+se crearon --create mode 2323 el numero significa id del archivo
+
+
+7   - git log     para ver todos los commits que hemos creado
+cada commit tiene su hash su ifedntificador
+tambien tiene el author y el dato (date) el nombre del commit 
