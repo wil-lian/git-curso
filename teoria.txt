@@ -59,4 +59,6 @@ NOTA: en la parte del commit donde nos dice (HEAD -> master)
 es la parte donde estamos parados el codigo donde nos encontramos
 
 
-10  - git 
+10  podemos crear un archivo       -->      .gitignore
+que nos va permitir ignorar algunos archivos para que 
+no los estemos agregando al directorio de trabajo
