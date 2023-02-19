@@ -52,13 +52,23 @@ tambien tiene el author y el dato (date) el nombre del commit
 revierte el canbio que se ha hecho en el archivo  
 
 
+
 9   - git diff index.html       para ver las diferencias hechas en los archivos
 nos mostrara una pantalla con restas y sumas que sean hecho
+
+
 
 NOTA: en la parte del commit donde nos dice (HEAD -> master)
 es la parte donde estamos parados el codigo donde nos encontramos
 
 
+
 10  podemos crear un archivo       -->      .gitignore
 que nos va permitir ignorar algunos archivos para que 
 no los estemos agregando al directorio de trabajo
+
+
+
+11  -  git commit -m "el mensaje del commit"
+nos permite crear un nuevo snapchat osea un commit sin 
+entrar a la consola
