@@ -54,3 +54,9 @@ revierte el canbio que se ha hecho en el archivo
 
 9   - git diff index.html       para ver las diferencias hechas en los archivos
 nos mostrara una pantalla con restas y sumas que sean hecho
+
+NOTA: en la parte del commit donde nos dice (HEAD -> master)
+es la parte donde estamos parados el codigo donde nos encontramos
+
+
+10  - git 
